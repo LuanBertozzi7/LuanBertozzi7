@@ -2,4 +2,4 @@
 
 ### LuanBertozzi7, minecraft player and programming student !!!
 
-<img src="https://img.shields.io/static/v1?label=message=LuanBertozzi7&color=177f0e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=LuanBertozzi7&color=177f0e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
